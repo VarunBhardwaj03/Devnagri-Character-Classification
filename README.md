@@ -7,4 +7,4 @@ To better understand the functioning of CNN models, I implemented the model myse
 
 **After training the model for 100 epoch, my model had accuracy score of 99.69% on validation dataset. **
 
-![Devnagri Characters]("/Users/varunbhardwaj/Desktop/1_RPSE6gLNhHex63JK-FOjNg.png")
+![Devnagri Characters](https://miro.medium.com/max/1200/1*RPSE6gLNhHex63JK-FOjNg.png)
